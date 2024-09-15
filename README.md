@@ -54,9 +54,9 @@
 <p align="center">
   </br>
   
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=M-craspo&theme=tokyonight&hide_border=true&card_width=495">
-</a>
+![snake gif](https://github.com/M-craspo/M-craspo/blob/output/github-contribution-grid-snake.gif)
+
+
 
   </br>
   </br>
