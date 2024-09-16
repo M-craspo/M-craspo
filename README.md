@@ -38,7 +38,7 @@
 
 <p align="center">
   
-  [![ThisIsMrIsmail](https://komarev.com/ghpvc/?username=M-craspo&label=Profile%20Views&color=blueviolet&flat)](https://github.com/M-craspo)
+  [![M-craspo](https://komarev.com/ghpvc/?username=M-craspo&label=Profile%20Views&color=blueviolet&flat)](https://github.com/M-craspo)
   [![WakaTime](https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg/?style=flat)](https://wakatime.com/@M-craspo)
 </p>
 
@@ -49,13 +49,10 @@
   </a>
 </p>
 
-<p align="center">
   </br>
   </br>
   </br>
   
-
-
 ```python
 class M-craspo:
     def __init__(self):
