@@ -9,8 +9,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Problem%20Solver;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Machine Learning Engineer with a passion for AI and data-driven solutions..
-- 👨‍💻As a fourth-year Computer Science student, I'm constantly learning and exploring new technologies to sharpen my skills.
+- 🏢 I'm a Machine Learning Engineer with a passion for AI and data-driven solutions.
+- 👨‍💻 As a fourth-year Computer Science student, I'm constantly learning and exploring new technologies to sharpen my skills.
 - 🌱 Currently focusing on deep learning, natural language processing, and computer vision.
 
 ### Connect with Me :
@@ -36,43 +36,26 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 
 
-<p align="center">
-  
-  [![M-craspo](https://komarev.com/ghpvc/?username=M-craspo&label=Profile%20Views&color=blueviolet&flat)](https://github.com/M-craspo)
-  [![WakaTime](https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg/?style=flat)](https://wakatime.com/@M-craspo)
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,flask,docker,github,git,vscode" />
-    
   </a>
 </p>
 
-  </br>
-  </br>
-  </br>
+</br>
+</br>
+</br>
   
 ```python
-class M-craspo:
+class Mcraspo:
     def __init__(self):
         self.name = "Mahmoud Elbahy"
         self.email = "elbahymahmoud206@gmail.com"
     def __skills__(self):
-        self.langs = ["Python", "C++", "Java", "HTML", "CSS", "Sql"]
-        self.tools = ["SciKit-Learn", "TensorFlow", "Pandas", "NumPy", "OpenCV"]
-        self.interests = ["chess", "Football","programming", "Leadership"]
+        self.langs = ["Python", "C++", "Java", "HTML", "CSS", "SQL"]
+        self.tools = ["SciKit-Learn", "TensorFlow","Pytorch", "Pandas", "NumPy", "OpenCV"]
+        self.interests = ["chess", "football", "programming", "leadership"]
 
 if __name__ == "__main__":
-    profile = M-craspo()
-```
-<details>
-<summary> <b>GitHub Stats 🚀</b> </summary>
-<p align="center"> 
-  <a href="https://github.com/M-craspo"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=M-craspo&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/M-craspo"><img width="55%" src="http://github-readme-streak-stats.herokuapp.com/?user=M-craspo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-</p>
-</details>
-</br>
-</br>
-
+    profile = Mcraspo()
