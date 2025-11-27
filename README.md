@@ -49,14 +49,25 @@
 </br>
   
 ```python
-class Mcraspo:
+class AIEngineer:
     def __init__(self):
-        self.name = "Mahmoud Elbahy"
+        self.name = "Mahmoud Ahmed Elbahy"
+        self.role = "AI / Machine Learning Engineer"
         self.email = "elbahymahmoud206@gmail.com"
-    def __skills__(self):
-        self.langs = ["Python", "C++", "Java", "HTML", "CSS", "SQL"]
-        self.tools = ["SciKit-Learn", "TensorFlow","Pytorch", "Pandas", "NumPy", "OpenCV"]
-        self.interests = ["chess", "football", "programming", "leadership"]
+        self.experience = {
+            "Machine Learning": "Model development, evaluation, deployment",
+            "Deep Learning": "CV, NLP, Transformers, Segmentation",
+            "MLOps": "Docker, GitHub Actions, model serving",
+        }
+
+    def skills(self):
+        self.languages = ["Python", "C++", "Java", "SQL"]
+        self.libraries = [
+            "PyTorch", "TensorFlow", "Keras",
+            "Scikit-Learn", "Pandas", "NumPy", "OpenCV"
+        ]
+        self.tools = ["Git", "Docker", "Linux", "VS Code"]
+        self.interests = ["AI Research", "Computer Vision", "NLP", "Cloud", "Leadership"]
 
 if __name__ == "__main__":
-    profile = Mcraspo()
+    profile = AIEngineer()
